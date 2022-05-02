@@ -1,0 +1,34 @@
+.white-cell {
+    background-color: antiquewhite;
+    height: 50px;
+    width: 50px;
+}
+
+.black-cell {
+    background-color: rgb(27, 25, 23);
+    height: 50px;
+    width: 50px;
+}
+
+.show-mario {
+    height: 50px;
+    width: 50px;
+}
+
+.mario-image {
+    height: 50px;
+    width: 50px;
+    visibility: hidden;
+}
+
+.mushroom-disappear {
+    height: 50px;
+    width: 50px;
+    visibility: hidden;
+}
+
+.mushroom-image { 
+    height: 50px;
+    width: 50px;
+}
+
